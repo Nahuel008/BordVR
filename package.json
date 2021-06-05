@@ -1,0 +1,19 @@
+{
+  "name": "starbucksweb",
+  "version": "1.0.0",
+  "description": "Web para portfolio",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nahuel Silva (Phoenix Webs)",
+  "license": "ISC",
+  "dependencies": {
+    "gulp": "^4.0.2"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.26.14",
+    "gulp-sass": "^4.1.0",
+    "gulp-scss": "^1.4.0"
+  }
+}
